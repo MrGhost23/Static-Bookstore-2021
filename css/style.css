@@ -599,7 +599,7 @@ input:checked + .slider:before {
 }
 
 .menu ul li:before {
-  font-family: FontAwesome;
+  font-family: "Font Awesome 5 Free";
   content: "\f061";
   position: absolute;
   left: -1.3vw;
@@ -609,7 +609,7 @@ input:checked + .slider:before {
 }
 
 .menu ul li:hover:before {
-  font-family: FontAwesome;
+  font-family: "Font Awesome 5 Free";
   content: "\f0a4";
   font-weight: bold;
   font-size: 12px;
@@ -794,7 +794,7 @@ h1 {
   margin-right: 5px;
   margin-top: 10px;
   font-size: 0.9em;
-  font-family: FontAwesome;
+  font-family: "Font Awesome 5 Free";
   display: inline-block;
   content: "\f005";
 }
